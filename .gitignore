@@ -1,0 +1,10 @@
+
+# Vagrant local state
+.vagrant/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
