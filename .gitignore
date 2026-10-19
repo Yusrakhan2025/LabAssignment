@@ -5,6 +5,12 @@
 # Operating system files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Temporary files
+# Temporary files and logs
 *.log
+*.tmp
+
+# Editor settings
+.vscode/
+.idea/
